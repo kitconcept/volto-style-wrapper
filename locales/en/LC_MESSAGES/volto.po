@@ -1,0 +1,32 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language: \n"
+"Language-Team: \n"
+"Content-Type: \n"
+"Content-Transfer-Encoding: \n"
+"Plural-Forms: \n"
+
+#: components/withStyleWrapper/schema
+# defaultMessage: Background color
+msgid "Background color"
+msgstr ""
+
+#: components/schema
+# defaultMessage: Text block with background color
+msgid "Text block with background color"
+msgstr ""
+
+#: components/withStyleWrapper/schema
+# defaultMessage: Use full width colored background
+msgid "Use full width colored background"
+msgstr ""
+
+#: components/withStyleWrapper/schema
+# defaultMessage: Use large width
+msgid "Use large width"
+msgstr ""
