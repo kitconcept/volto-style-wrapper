@@ -10,4 +10,4 @@ context('Block Acceptance Tests', () => {
     });
     cy.autologin();
   });
-}
+});
